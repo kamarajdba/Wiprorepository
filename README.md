@@ -1,2 +1,2 @@
-# Wiprorepository
+# Wipro repository
 Wipro repository
